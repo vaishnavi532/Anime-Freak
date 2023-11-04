@@ -1,2 +1,2 @@
 # Anime-Freak
-Website which recommend anime and can watch .
+Website which recommend anime and can watch anime.
